@@ -1,7 +1,9 @@
 #MY FILES
 notes.txt
 .env
-
+/.vscode
+/config
+/config/config.json
 # dependencies
 /node_modules
 /.pnp
